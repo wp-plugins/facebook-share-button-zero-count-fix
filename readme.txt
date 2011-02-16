@@ -4,7 +4,7 @@ Donate link:
 Tags: facebook, share, button, social, meta, zero, counter
 Requires at least: 2.9.0
 Tested up to: 3.0.5
-Stable tag: 1.0
+Stable tag: 1.1
 
 Fixes the annoying behaviour of the Facebook share buttons not to show the counter box if something is shared less than 3 times.
 
@@ -16,7 +16,7 @@ This plugin fixes the problem by showing a configurable count of 0 - 2 where oth
 
 == Installation ==
 
-1. Download the plugin, unzip it and upload the "fbsharethumbnail" folder to the "/wp-content/plugins/" directory
+1. Download the plugin, unzip it and upload the "facebook-share-button-zero-count-fix" folder to the "/wp-content/plugins/" directory
 2. Activate the plugin
 3. Configure the counter option
 4. Enjoy!
@@ -29,6 +29,9 @@ This plugin fixes the problem by showing a configurable count of 0 - 2 where oth
 2. If someone clicks your share button again, the faked number immediately disappears and shows the real count, so you're busted...
 
 == Changelog ==
+
+= 1.1 =
+* Fixed a typo in installation instructions
 
 = 1.0 =
 * Initial release
