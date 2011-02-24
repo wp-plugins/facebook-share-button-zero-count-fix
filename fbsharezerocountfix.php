@@ -4,7 +4,7 @@
 Plugin Name:  Facebook Share Button Zero Count Fix
 Plugin URI:   http://www.mindgears.de/2011/02/wordpress-plugin-facebook-share-button-zero-count-fix/
 Description:  Fixes the annoying behaviour of the Facebook share buttons not to show the counter box if something is shared less than 3 times.
-Version:      1.1
+Version:      1.2
 Author:       Bernd Zolchhofer
 Author URI:   http://www.mindgears.de
 License:      GPL 2
